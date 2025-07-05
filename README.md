@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Dexter O'Neill.
 
-<!--
-**dx-oneill/dx-oneill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Graduate Scientist for MoD <br>
+BSc Mathematics & Computer Science 1st class honours <br>
 
-Here are some ideas to get you started:
+- 🔬 Professional Interests: Quantum Computing, Computational Physics, Machine Learning
+- 🎓 Dissertation: The Mathematics of Quantum Theory and Computing
+- 💻 Strongest Languages: Python, Java, SPARK Ada, SQL, Qiskit
+- 🚀 Recent Projects: Critical system model of rocket thrusters, Image processing app, Grover’s algorithm implementation
+- 🎮 Hobbies: Chess, Math/Physics Puzzles, Weightlifting, Gaming, Golf, Football, Animanga, Travelling
+- 🌍 Based in the UK
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dexter-o-neill-4b5449323/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
